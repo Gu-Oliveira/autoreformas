@@ -93,7 +93,7 @@
 .banner-img{
     width: 100%;
     height: 100%;
-    background-image: url(../images/banner1.png); /* https://br.pinterest.com/pin/338121884499527550/?d=t&mt=login*/
+    background-image: url(banner1.png); /* https://br.pinterest.com/pin/338121884499527550/?d=t&mt=login*/
     background-size: contain;
     background-repeat: no-repeat;
     background-position: right;
